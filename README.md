@@ -14,7 +14,7 @@
 </p>
 
 ## 👨‍💻 Professional Introduction
-![Router](assets/networking/router.png)
+
 I am **Komezusenge Byiringiro**, an IT enthusiast from Rwanda with a strong interest in system administration, software development, database management, networking and IT infrastructure.
 
 I enjoy developing practical applications, configuring computer networks, managing databases, troubleshooting technical challenges and exploring technologies that solve real-world problems.
