@@ -96,8 +96,8 @@ I'm interested in connecting with developers, IT professionals, technology enthu
 
 - 🌍 Location: Rwanda
 - 💼 GitHub: [Explore My Repositories](https://github.com/)
-- 🔗 LinkedIn: [Add Your LinkedIn Profile](https://www.linkedin.com/)
-- 📧 Email: [Add Your Professional Email]
+- 🔗 LinkedIn: [komezusenge byiringiro])
+- 📧 Email: [komezusengebyiringiro@gmail.coml]
 
 ---
 
