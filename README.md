@@ -1,3 +1,220 @@
+## 💻 Programming Languages & Scripting Technologies
+
+I am interested in learning, exploring and developing solutions using different programming and scripting languages.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,python,js,ts,c,cpp,cs,ruby,go,rust,kotlin,swift,dart,r,scala,perl,lua,bash,powershell,html,css" />
+</p>
+
+**Programming and scripting languages:**
+
+1. PHP
+2. Java
+3. Python
+4. JavaScript
+5. TypeScript
+6. C
+7. C++
+8. C#
+9. Ruby
+10. Go
+11. Rust
+12. Kotlin
+13. Swift
+14. Dart
+15. R
+16. Scala
+17. Perl
+18. Lua
+19. Bash
+20. PowerShell
+21. MATLAB
+22. Objective-C
+23. Haskell
+24. Elixir
+
+*Additional web technologies: HTML5, CSS3 and SQL.*
+
+## 🗄️ Database Management Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase" />
+</p>
+
+| # | Database technology |
+|---|---|
+| 1 | Oracle Database |
+| 2 | MySQL |
+| 3 | PostgreSQL |
+| 4 | Microsoft SQL Server |
+| 5 | SQLite |
+| 6 | MariaDB |
+| 7 | MongoDB |
+| 8 | Redis |
+| 9 | Firebase Firestore |
+| 10 | Apache Cassandra |
+| 11 | CouchDB |
+| 12 | Amazon DynamoDB |
+| 13 | Neo4j |
+| 14 | Elasticsearch |
+| 15 | InfluxDB |
+| 16 | Snowflake |
+| 17 | Microsoft Access |
+| 18 | IBM Db2 |
+
+## 🌐 Computer Networking & Network Infrastructure
+
+I am interested in network infrastructure, configuration, administration, troubleshooting and network security.
+
+### 🖧 Networking Devices – 20+
+
+| Icon | Networking device | Main purpose |
+|---|---|---|
+| 📡 | Router | Connects different networks |
+| 🔀 | Network Switch | Connects devices in a LAN |
+| 🛡️ | Firewall | Controls network traffic |
+| 📶 | Wireless Access Point | Provides Wi-Fi connectivity |
+| 🌍 | Modem | Connects to an internet service |
+| 🔌 | ONT | Converts fiber-optic signals |
+| 🖧 | Network Gateway | Connects different networks or protocols |
+| ⚖️ | Load Balancer | Distributes network traffic |
+| 🚨 | IDS | Detects suspicious network activity |
+| 🔐 | IPS | Detects and prevents network attacks |
+| 🔒 | VPN Concentrator | Manages VPN connections |
+| 🌐 | Proxy Server | Forwards client requests |
+| 💻 | Network Interface Card | Connects a device to a network |
+| 🔦 | SFP Transceiver | Provides fiber or copper connectivity |
+| 🔁 | Repeater | Regenerates network signals |
+| 🔗 | Network Bridge | Connects network segments |
+| 📡 | Wireless Controller | Manages wireless access points |
+| 🔌 | PoE Injector | Supplies power through Ethernet |
+| ⚡ | PoE Switch | Supplies power and network connectivity |
+| 🔧 | Media Converter | Converts one network media type to another |
+| 📊 | Network TAP | Copies network traffic for monitoring |
+| 🗄️ | NAS | Provides network-accessible storage |
+
+### 🏢 Networking Manufacturers & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cisco,linux,windows" />
+</p>
+
+- Cisco
+- MikroTik
+- Ubiquiti
+- TP-Link
+- D-Link
+- Fortinet
+- Palo Alto Networks
+- Juniper Networks
+- Huawei
+- HPE Aruba
+- Netgear
+- Zyxel
+- Dell Networking
+- Extreme Networks
+
+### 🔧 Networking Concepts & Protocols
+
+- IPv4 and IPv6
+- Subnetting and CIDR
+- VLAN and Inter-VLAN Routing
+- STP, PVST+ and Rapid PVST+
+- DHCP and DNS
+- NAT and PAT
+- OSPF, EIGRP and BGP
+- Static and Dynamic Routing
+- SSH and Telnet
+- ACLs
+- VPN
+- TCP/IP and OSI Models
+- Ethernet and Fiber Optics
+- Wireless Networking
+- Network Monitoring and Troubleshooting
+
+## 🖥️ System Administration
+
+### Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,redhat,kali" />
+</p>
+
+- Windows Client and Windows Server
+- Linux Administration
+- Ubuntu
+- Debian
+- Red Hat Enterprise Linux
+- Kali Linux
+- User and group administration
+- File and folder permissions
+- Server configuration
+- Storage and disk management
+- Virtualization
+- PowerShell and Bash
+- System monitoring and troubleshooting
+
+## ⚙️ Frameworks & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue,angular,nodejs,django,spring,tailwind,bootstrap,git,github,vscode,docker,postman,figma" />
+</p>
+
+## 🎓 Education
+
+**Rwanda Polytechnic – Tumba College (RP Tumba)**
+
+Programme: Information Technology (IT)
+
+**Other Education:**
+- International Technical School of Kigali – Advanced Level, Networking.
+- GS Karambira – Ordinary Level.
+- Secondary background: Physics, Chemistry and Mathematics (PCM).
+
+## 🌍 Languages
+
+- 🇷🇼 Kinyarwanda
+- 🇬🇧 English
+- 🇹🇿 Kiswahili
+- 🇫🇷 French
+
+## 🚀 Featured Projects
+
+### ⛽ FuelFlow Rwanda
+A fuel station management system project focused on multi-branch operations, inventory, customer credit, vehicle tracking, orders and payment management.
+
+**Technologies:** PHP, Laravel, MySQL, JavaScript and Tailwind CSS.
+
+### ⚡ STANELECTRIC Portfolio
+A dynamic portfolio project for an electrical engineering company, featuring project management, galleries, videos and customer enquiries.
+
+**Technologies:** Next.js, React and Sanity CMS.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komezusenge&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komezusenge&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komezusenge&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm Komezusenge Byiringiro
 
 <p align="center">
