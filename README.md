@@ -1,5 +1,3 @@
-# Komezusenge-Byiringiro
-
 # 👋 Hi, I'm Komezusenge Byiringiro
 
 ### 💻 Aspiring Software Developer | IT Enthusiast | Web Developer | Database & Networking Learner
@@ -27,42 +25,50 @@ My goal is to grow into a well-rounded IT professional who creates reliable, use
 ## 🧰 Technical Skills & Technologies
 
 ### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+\
+
 
 ### 🎨 Frontend Development
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+\
+
 
 ### ⚙️ Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+\
+
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+\
+
 
 ### 🌐 Networking & IT Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+\
+
 
 ### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+
+
+\
+
 
 ---
 
 ## 📌 Featured Projects
 
 ### ⛽ FuelFlow Rwanda
+
 A fuel station management system concept designed to support:
+
 - Multi-branch fuel station operations.
 - Fuel inventory and tank monitoring.
 - Pump attendant and manager workflows.
@@ -73,6 +79,7 @@ A fuel station management system concept designed to support:
 **Technologies:** PHP, Laravel, MySQL, Tailwind CSS, JavaScript.
 
 ### ⚡ STANELECTRIC Portfolio Website
+
 A dynamic portfolio website concept for an electrical engineering company, designed to showcase engineering projects, services, galleries, and customer enquiries.
 
 **Technologies:** Next.js, React, Sanity CMS, JavaScript, CSS.
@@ -96,8 +103,8 @@ I'm interested in connecting with developers, IT professionals, technology enthu
 
 - 🌍 Location: Rwanda
 - 💼 GitHub: [Explore My Repositories](https://github.com/)
-- 🔗 LinkedIn: [komezusenge byiringiro])
-- 📧 Email: [komezusengebyiringiro@gmail.coml]
+- 🔗 LinkedIn: [Add Your LinkedIn Profile](https://www.linkedin.com/)
+- 📧 Email: komezusengebyiringiro\@gmail.com
 
 ---
 
